@@ -2,7 +2,7 @@
 
 ### 環境情報
 python3.10.1<br>
-pip 21.2.4<br>
+pip 22.1.1<br>
 py -m venvコマンドで作成<br>
 必要ライブラリからrequirements.txtを作成予定。
 
