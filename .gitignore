@@ -1,5 +1,5 @@
-Include/
 Scripts/
+.vscode/
 Lib/
 youtube_client/
 pyvenv.cfg 
