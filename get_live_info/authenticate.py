@@ -6,8 +6,8 @@ config_ini = ConfigParser()
 config_ini.read('youtube_client\\meta.ini', encoding='utf-8')
 
 def main():
-    channel_id = input()
     print("Input channed ID you want.")
+    channel_id = input()
 
     os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
     api_service_name = "youtube"
